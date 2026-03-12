@@ -1,4 +1,4 @@
-package com.diji.spring_boot_rest;
+package com.diji.spring_boot_rest.controller;
 
 import com.diji.spring_boot_rest.model.JobPost;
 import com.diji.spring_boot_rest.service.JobService;
